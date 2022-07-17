@@ -1,1 +1,1 @@
-console.log("hello world ");
+const env=require('dotenv').config()
